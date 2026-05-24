@@ -27,8 +27,6 @@ python rss_reader.py --help
 
 If this tool helps you, consider supporting further development:
 
-**BTC:** `1KPUa9Njq86NJwmwqVmdjZ4oC8eHrXKqf9`
-
 ## License
 
 MIT License - Use freely, modify, and distribute.
